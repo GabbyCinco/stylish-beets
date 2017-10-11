@@ -1,4 +1,5 @@
 body {
+  background-color: #c9b5ab;
   line-height: 1.5;
 }
 
@@ -9,4 +10,8 @@ h1, h2 {
 
 p, figcaption, dl, ul, footer {
   font-family: 'PT Serif', serif;
+}
+
+.wiki  {
+  color: #8f2440;
 }

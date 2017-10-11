@@ -6,12 +6,18 @@ body {
 h1, h2 {
   font-family: 'PT Sans', sans-serif;
   font-size: 1.5rem;
+  color: #3f1622;
 }
 
 p, figcaption, dl, ul, footer {
   font-family: 'PT Serif', serif;
 }
 
-.wiki  {
+.wiki, a {
   color: #8f2440;
+}
+
+a {
+  font-family: 'PT Sans', sans-serif;
+  font-weight: bold;
 }

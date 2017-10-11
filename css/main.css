@@ -1,6 +1,6 @@
 html {
-  font-family: 'PT Sans', sans-serif;
-  line-height: 1.596
+  font-family: "PT Sans", sans-serif;
+  line-height: 1.596;
 }
 
 body {
@@ -22,6 +22,11 @@ h1, h2 {
   color: #3f1622;
 }
 
+figcaption {
+  text-align: center;
+  font-style: italic;
+}
+
 p, figcaption, dl, ul, footer {
   font-family: "PT Serif", serif;
 }
@@ -29,7 +34,7 @@ p, figcaption, dl, ul, footer {
 a {
   color: #8f2440;
   font-size: 1.125rem;
-  font-family: 'PT Sans', sans-serif;
+  font-family: "PT Sans", sans-serif;
   font-weight: bold;
   text-decoration: none;
 }

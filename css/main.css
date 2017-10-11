@@ -1,12 +1,12 @@
 html {
   font-family: 'PT Sans', sans-serif;
-  line-height: 1.96
+  line-height: 1.596
 }
 
 body {
   background-color: #c9b5ab;
   font-weight: normal;
-  color: 222;
+  color: #222;
 }
 
 i {
@@ -24,6 +24,7 @@ p, figcaption, dl, ul, footer {
 
 a {
   color: #8f2440;
+  font-size: 1.125rem;
 }
 
 a {

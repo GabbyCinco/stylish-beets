@@ -2,9 +2,10 @@ body {
   background-color: #c9b5ab;
   line-height: 1.5;
   font-weight: normal;
+  color: 222;
 }
 
-.beta {
+title > i {
   font-style: italic;
 }
 
@@ -18,7 +19,7 @@ p, figcaption, dl, ul, footer {
   font-family: "PT Serif", serif;
 }
 
-.wiki, a {
+footer > a {
   color: #8f2440;
 }
 

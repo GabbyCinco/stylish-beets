@@ -1,16 +1,19 @@
+html {
+  font-family: 'PT Sans', sans-serif;
+  line-height: 1.96
+}
+
 body {
   background-color: #c9b5ab;
-  line-height: 1.5;
   font-weight: normal;
   color: 222;
 }
 
-title > i {
+i {
   font-style: italic;
 }
 
 h1, h2 {
-  font-family: "PT Sans", sans-serif;
   font-size: 1.5rem;
   color: #3f1622;
 }
@@ -19,7 +22,7 @@ p, figcaption, dl, ul, footer {
   font-family: "PT Serif", serif;
 }
 
-footer > a {
+a {
   color: #8f2440;
 }
 

@@ -47,3 +47,7 @@ a:hover {
 header ol {
   list-style-type: none;
 }
+
+.beet {
+  font-weight: bold;
+}

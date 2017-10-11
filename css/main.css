@@ -29,9 +29,6 @@ p, figcaption, dl, ul, footer {
 a {
   color: #8f2440;
   font-size: 1.125rem;
-}
-
-a {
   font-family: 'PT Sans', sans-serif;
   font-weight: bold;
   text-decoration: none;

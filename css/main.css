@@ -9,6 +9,10 @@ body {
   color: #222;
 }
 
+img {
+  width: 100%;
+}
+
 i {
   font-style: italic;
 }

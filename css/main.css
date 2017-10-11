@@ -3,14 +3,18 @@ body {
   line-height: 1.5;
 }
 
+.beta {
+  font-style: italic;
+}
+
 h1, h2 {
-  font-family: 'PT Sans', sans-serif;
+  font-family: "PT Sans", sans-serif;
   font-size: 1.5rem;
   color: #3f1622;
 }
 
 p, figcaption, dl, ul, footer {
-  font-family: 'PT Serif', serif;
+  font-family: "PT Serif", serif;
 }
 
 .wiki, a {
@@ -20,4 +24,8 @@ p, figcaption, dl, ul, footer {
 a {
   font-family: 'PT Sans', sans-serif;
   font-weight: bold;
+}
+
+li {
+  list-style-type: none;
 }

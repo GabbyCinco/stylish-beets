@@ -1,0 +1,8 @@
+h1, h2 {
+  font-family: 'PT Sans', sans-serif;
+}
+
+p, figcaption, dl, ul, footer {
+  font-family: 'PT Serif', serif;
+
+}

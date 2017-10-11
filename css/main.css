@@ -1,6 +1,7 @@
 body {
   background-color: #c9b5ab;
   line-height: 1.5;
+  font-weight: normal;
 }
 
 .beta {
@@ -24,8 +25,14 @@ p, figcaption, dl, ul, footer {
 a {
   font-family: 'PT Sans', sans-serif;
   font-weight: bold;
+  text-decoration: none;
 }
 
-li {
+a:hover {
+  text-decoration: none;
+  color: #3f1622;
+}
+
+header ol {
   list-style-type: none;
 }
